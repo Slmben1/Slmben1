@@ -24,6 +24,7 @@
 - 💻 Le dev  (pour le moment web, mais je souhaite me diversifier)
 - ✈️ Les voyages 
 
+<img src ="https://flo-static-assets.s3.amazonaws.com/uploads/api/58a5db03108e5.jpeg"/>
 
 
 [Me contacter ✉](mailto:slmben1@proton.me)
