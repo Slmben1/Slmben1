@@ -1,6 +1,6 @@
 ## Bonjour à tous, je suis Selim !👋
 
-**Actuellement étudiant en informatique, je suis en parallèle chargé de projet informatique au sein d'une imoprotante structure.**
+**Actuellement étudiant en informatique, je suis en parallèle chargé de projet informatique au sein d'une importante structure.**
 
 ### A propos de moi
 
