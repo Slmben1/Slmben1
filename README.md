@@ -4,7 +4,7 @@
 
 ### A propos de moi
 
-- 🎓Première année d'études en informatique
+- 🎓Deuxième année d'études en informatique
 - 🌱Actuellement (et continuellement) en train d'apprendre Java, JS et Python
 - 👯 Ouvert aux propositions de projets et collaborations 
 
